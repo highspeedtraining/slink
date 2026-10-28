@@ -2,7 +2,7 @@ defmodule Slink.MixProject do
   use Mix.Project
 
   @version "0.7.0"
-  @source_url "https://github.com/wkirschbaum/slink"
+  @source_url "https://github.com/highspeedtraining/slink"
 
   def project do
     [
@@ -62,6 +62,7 @@ defmodule Slink.MixProject do
       licenses: ["MIT"],
       links: %{
         "GitHub" => @source_url,
+        "High Speed Training" => "https://www.highspeedtraining.co.uk/",
         "Changelog" => "#{@source_url}/blob/main/CHANGELOG.md"
       }
     ]

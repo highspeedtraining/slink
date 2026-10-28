@@ -248,4 +248,4 @@ mix test
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE). Copyright © 2026 [High Speed Training](https://www.highspeedtraining.co.uk/).
