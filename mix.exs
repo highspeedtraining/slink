@@ -49,7 +49,7 @@ defmodule Slink.MixProject do
       {:telemetry, "~> 1.0"},
       {:plug, "~> 1.20"},
       # Optional: only needed if you run the Events API adapter as a standalone server.
-      {:bandit, "~> 1.12 and >= 1.12.5", optional: true},
+      {:bandit, "~> 1.14 and >= 1.14.1", optional: true},
       {:ex_doc, "~> 0.34", only: :dev, runtime: false},
       # Test-only: stand up a local fake-Slack WebSocket server to prove the Socket Mode path.
       {:websock_adapter, "~> 0.5", only: :test}
